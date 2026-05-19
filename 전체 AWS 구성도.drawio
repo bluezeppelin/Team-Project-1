@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36">
   <diagram name="페이지-1" id="KimnwWimbTTK8fKmnTxG">
-    <mxGraphModel dx="2657" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2179" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,8 +458,8 @@
         <mxCell id="Nz-iEI0f8shXWkpeWIMU-139" parent="9Pet42G2Q9q-K2LgJ_CH-1" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="160" width="370" x="1650" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="Nz-iEI0f8shXWkpeWIMU-141" parent="9Pet42G2Q9q-K2LgJ_CH-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2937/1_Youtube_colored_svg-1019.svg" value="" vertex="1">
-          <mxGeometry height="512" width="512" x="1690" y="-130" as="geometry" />
+        <mxCell id="Nz-iEI0f8shXWkpeWIMU-142" parent="9Pet42G2Q9q-K2LgJ_CH-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media__Flat_-2552/Social-media_Youtube-1449.svg" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1700" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
